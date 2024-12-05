@@ -2,9 +2,9 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    container: {
-      center: true,
-    },
+    // container: {
+    //   center: true,
+    // },
     extend: {
       colors: {
         "bg-primary": "#000000",
